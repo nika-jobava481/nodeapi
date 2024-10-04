@@ -15,8 +15,8 @@ A simple Node.js API for managing to-do tasks. This API allows users to create, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-management-api.git
-   cd task-management-api
+   git clone https://github.com/nika-jobava481/nodeapi.git
+   cd nodeapi
    ```
 
 2. Install dependencies:
